@@ -1,12 +1,104 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\fwg\\Desktop\\Github\\asp.net core\\webapiTest\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0383B110-5336-4AF7-937B-FB0263D54121}|webapiTest\\webapiTest.csproj|c:\\users\\fwg\\desktop\\github\\asp.net core\\webapitest\\webapitest\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0383B110-5336-4AF7-937B-FB0263D54121}|webapiTest\\webapiTest.csproj|solutionrelative:webapitest\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0383B110-5336-4AF7-937B-FB0263D54121}|webapiTest\\webapiTest.csproj|c:\\users\\fwg\\desktop\\github\\asp.net core\\webapitest\\webapitest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0383B110-5336-4AF7-937B-FB0263D54121}|webapiTest\\webapiTest.csproj|solutionrelative:webapitest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0383B110-5336-4AF7-937B-FB0263D54121}|webapiTest\\webapiTest.csproj|c:\\users\\fwg\\desktop\\github\\asp.net core\\webapitest\\webapitest\\webapitest.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0383B110-5336-4AF7-937B-FB0263D54121}|webapiTest\\webapiTest.csproj|solutionrelative:webapitest\\webapitest.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0383B110-5336-4AF7-937B-FB0263D54121}|webapiTest\\webapiTest.csproj|c:\\users\\fwg\\desktop\\github\\asp.net core\\webapitest\\webapitest\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0383B110-5336-4AF7-937B-FB0263D54121}|webapiTest\\webapiTest.csproj|solutionrelative:webapitest\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0383B110-5336-4AF7-937B-FB0263D54121}|webapiTest\\webapiTest.csproj|c:\\users\\fwg\\desktop\\github\\asp.net core\\webapitest\\webapitest\\webapitest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0383B110-5336-4AF7-937B-FB0263D54121}|webapiTest\\webapiTest.csproj|solutionrelative:webapitest\\webapitest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\fwg\\Desktop\\Github\\asp.net core\\webapiTest\\webapiTest\\Dockerfile",
+              "RelativeDocumentMoniker": "webapiTest\\Dockerfile",
+              "ToolTip": "C:\\Users\\fwg\\Desktop\\Github\\asp.net core\\webapiTest\\webapiTest\\Dockerfile",
+              "RelativeToolTip": "webapiTest\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-02T08:37:00.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\fwg\\Desktop\\Github\\asp.net core\\webapiTest\\webapiTest\\appsettings.json",
+              "RelativeDocumentMoniker": "webapiTest\\appsettings.json",
+              "ToolTip": "C:\\Users\\fwg\\Desktop\\Github\\asp.net core\\webapiTest\\webapiTest\\appsettings.json",
+              "RelativeToolTip": "webapiTest\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-02T08:36:57.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "webapiTest",
+              "DocumentMoniker": "C:\\Users\\fwg\\Desktop\\Github\\asp.net core\\webapiTest\\webapiTest\\webapiTest.csproj",
+              "RelativeDocumentMoniker": "webapiTest\\webapiTest.csproj",
+              "ToolTip": "C:\\Users\\fwg\\Desktop\\Github\\asp.net core\\webapiTest\\webapiTest\\webapiTest.csproj",
+              "RelativeToolTip": "webapiTest\\webapiTest.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-02T08:36:52.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\fwg\\Desktop\\Github\\asp.net core\\webapiTest\\webapiTest\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "webapiTest\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\fwg\\Desktop\\Github\\asp.net core\\webapiTest\\webapiTest\\WeatherForecast.cs",
+              "RelativeToolTip": "webapiTest\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T08:36:50.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "webapiTest",
+              "DocumentMoniker": "C:\\Users\\fwg\\Desktop\\Github\\asp.net core\\webapiTest\\webapiTest\\webapiTest.csproj",
+              "RelativeDocumentMoniker": "webapiTest\\webapiTest.csproj",
+              "ToolTip": "C:\\Users\\fwg\\Desktop\\Github\\asp.net core\\webapiTest\\webapiTest\\webapiTest.csproj",
+              "RelativeToolTip": "webapiTest\\webapiTest.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-02T08:36:47.864Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
